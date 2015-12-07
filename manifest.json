@@ -2,7 +2,7 @@
   "name": "ViewTweets",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "View tweets featuring the URL of your active Chrome tab. To use, simply click the toolbar icon or type 'Command + K' (Mac) to search for tweets.",
+  "description": "View tweets featuring the URL of your active Chrome tab. Click toolbar icon or 'Command + K' (Mac) to search for tweets.",
   "homepage_url": "http://weisser.io",
   "icons": {
     "16": "icons/icon16.png",
