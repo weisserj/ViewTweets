@@ -32,8 +32,5 @@
         "linux": "Ctrl+K"
       }
     }
-  },
-  "permissions": [
-    // "tabs"
-  ]
+  }
 }
